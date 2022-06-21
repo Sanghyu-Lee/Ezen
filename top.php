@@ -51,5 +51,6 @@
 &emsp;<a href="list.php">학생목록/수정</a>
 &emsp;<a href="member.php">회원가입</a>
 &emsp;<a href="member_list.php">회원조회</a>
+&emsp;<a href="join_list.php">테이블조인</a>
 &emsp;<a href="index.php">홈으로</a>
 </nav>
